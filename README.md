@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHzyY72228jZg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689955200390?e=1759363200&v=beta&t=319YozJGx091XRV12HK1moUte1qHxoJLVjDwcakzpCk" alt="Project Banner" width="900">
+</p>
 <h1 align="center">Hi 👋, I'm Nisar Fatima</h1>
 <h3 align="center">Aspiring Cloud & DevOps Engineer | Strengthening DSA & Programming Foundations</h3>
 
