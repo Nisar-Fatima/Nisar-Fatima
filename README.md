@@ -5,9 +5,13 @@
 <h3 align="center">Aspiring Cloud & DevOps Engineer | Strengthening DSA & Programming Foundations</h3>
 
 ---
+I hold a **BSCS degree from GCWUF** and have **1 year of professional experience** with *Alabtaal Developers*, where I contributed to software development projects.  
+
+Currently, I am **transitioning into Cloud Engineering**, building expertise in **Linux, Shell Scripting, Terraform, Azure, Kubernetes, and Docker**.  
+
+I am passionate about leveraging technology to design **scalable solutions** and continuously enhancing my **programming logic** and **problem-solving skills**. Excited to share my journey as I work on **hands-on projects in cloud technologies.
 
 - 🔭 I’m currently working on **Cloud Engineering & DevOps (Azure, Linux, Terraform, Docker, Kubernetes)**  
-- 🌱 I’m currently learning **DBMS**  
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@nisarfatima)  
 - 📫 How to reach me: **nisarf154@gmail.com**  
 
